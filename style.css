@@ -1,0 +1,15 @@
+#canvas{
+    border-color: black;
+    box-shadow: 3px 3px grey solid;
+
+}
+
+body{
+    background-color: cyan;
+
+}
+
+#heading{
+    font-size: 30px;
+    margin-top: 50px;
+}
